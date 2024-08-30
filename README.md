@@ -16,19 +16,8 @@
 
 
 
-<h1>View Deployment</h1>
-</hr>
-<h4>Checkout live website: https://mern-stack-music-app.vercel.app/</h4>
-</hr>
 
 
-
-
-<br />
-
-## 🚀 Responsiveness
-
-<h4 align="center">All Pages are fully responsive for all screen sizes</h4>
 
 
 
